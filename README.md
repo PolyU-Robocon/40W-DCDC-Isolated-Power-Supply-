@@ -1,4 +1,4 @@
-# PCB_Template
+# 40W DCDC Isolated Power Supply
 40W DCDC Isolated Power Supply    
 Product ID: PWN-40W-3     
 Ver: V1.0   
